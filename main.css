@@ -13,7 +13,7 @@ body{
     background-color: #b15500;
     display: flex;
     height: 53px;
-    width: 99.2%;
+    width: 99.1%;
     font-size: 24px;
     color:white;
     margin-left: 12px;
@@ -35,7 +35,7 @@ a{
 .add1{
     
     background-color: aqua;
-    width: 205px;
+    width: 190px;
     height: 100%;
     position:absolute;
     left: 0px;
@@ -44,7 +44,7 @@ a{
 .add2{
     
     background-color: chocolate;
-    width: 205px;
+    width: 190px;
     height: 100%;
     position:absolute;
     right: 0px;
@@ -66,6 +66,7 @@ a{
 
 
 }
+
 
 
 
